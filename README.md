@@ -1,4 +1,4 @@
-<img align="right" height="450em" src="./usuario-github-ryanaraujo.jpg"/>
+<img align="right" height="450em" src="./ryanaraujo.jpg"/>
 <div>
     <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">! Sou <span style="color: yellow;"> Ryan Araújo</span></h1>
 
