@@ -6,11 +6,10 @@
 
 <!-- - ▶️ I (not) regularly post videos on [youtube](link youtube) --> 
 
-- 💬 Converse comigo sobre Idéias/Soluções
-
 - 🌡️ Manso, Esforçado e Curioso
 
 - 📆 21 anos
+- +1 ano de experiência com desenvolvimento de software
 </div>
 <div>
 
