@@ -9,7 +9,7 @@
 - 🌡️ Manso, Esforçado e Curioso
 
 - 📆 21 anos
-- +1 ano de experiência com desenvolvimento de software
+- 🥼 mais de um ano de experiência com desenvolvimento de software
 </div>
 <div>
 
@@ -30,7 +30,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![CSharp](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=Csharp)&nbsp;
-![CSharp](https://img.shields.io/badge/-dotnet-05122A?style=flat&logo=dotnet)&nbsp;
+![dotnet](https://img.shields.io/badge/-dotnet-05122A?style=flat&logo=dotnet)&nbsp;
 
 <br><br>
 <!--
