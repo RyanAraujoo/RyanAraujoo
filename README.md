@@ -10,7 +10,7 @@
 
 - 🌡️ Manso, Esforçado e Curioso
 
-- 📆 20 anos
+- 📆 21 anos
 </div>
 <div>
 
