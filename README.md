@@ -5,15 +5,10 @@
 - 👨‍ Software Developer 
 
 <!-- - ▶️ I (not) regularly post videos on [youtube](link youtube) --> 
-
-- 🌡️ Manso, Esforçado e Curioso
-
-- 📆 21 anos
-- 🥼 mais de um ano de experiência com desenvolvimento de software
+- 📆 23 anos
+- 🥼 Mais de 2 anos com experiência em desenvolvimento de software
 </div>
 <div>
-
-  <a href="https://www.instagram.com/ofc.ryanaraujo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ryanpsa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:ryan.pablo.silva.araujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
@@ -24,14 +19,10 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![CSharp](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=Csharp)&nbsp;
-![dotnet](https://img.shields.io/badge/-dotnet-05122A?style=flat&logo=dotnet)&nbsp;
-
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=ED8B00)&nbsp;
 <br><br>
 <!--
 <div style="display: inline_block"><br>
